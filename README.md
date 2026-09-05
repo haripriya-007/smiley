@@ -2,11 +2,11 @@
 
 
 
-# [Project Name] 🎯
+# SMILEY 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: TWO BYTE
 
 
 ### Team Members
