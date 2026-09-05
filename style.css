@@ -1,0 +1,92 @@
+/* Overall Page */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 30px;
+    background: linear-gradient(135deg, #fff3b0, #ffd6e8);
+    color: #333;
+}
+
+
+/* Main Title */
+h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+
+/* Description */
+p {
+    font-size: 18px;
+}
+
+
+/* Camera */
+video {
+    display: block;
+    margin: 20px auto;
+    border-radius: 20px;
+    border: 5px solid white;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+
+/* Buttons */
+button {
+    padding: 14px 25px;
+    margin: 10px;
+    border: none;
+    border-radius: 25px;
+    font-size: 17px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #ffcc33;
+    color: #333;
+    transition: 0.3s;
+}
+
+
+/* Button Hover */
+button:hover {
+    transform: scale(1.08);
+    background-color: #ffb300;
+}
+
+
+/* Rating Box */
+#rating {
+    display: inline-block;
+    padding: 20px 40px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+
+/* Dialogue Box */
+#dialogue {
+    max-width: 600px;
+    margin: 15px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 20px;
+    font-size: 22px;
+    font-weight: bold;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+
+/* Footer */
+hr {
+    margin-top: 40px;
+    border: none;
+    border-top: 1px solid #aaa;
+}
